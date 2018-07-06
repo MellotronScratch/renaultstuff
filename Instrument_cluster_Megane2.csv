@@ -5,28 +5,28 @@ Warning lights,30011115,Airbag off
 Warning lights,30012015,Airbag on
 Warning lights,30011108,ASR/ESP o
 Warning lights,30012008,ASR/ESP on
-Warning lights,30011113,Battery icon on
-Warning lights,30012013,Battery icon on
+Warning lights,30011113,Battery charge indicator on
+Warning lights,30012013,Battery charge indicator on
 Warning lights,30011114,Check engine off
 Warning lights,30012014,Check engine on
 Warning lights,3001110A,Cruise control off
 Warning lights,3001200A,Cruise control on
-Warning lights,3001110E,Exclaimation mark off
-Warning lights,3001200E,Exclaimation mark on
+Warning lights,3001110E,Handbrake sign off
+Warning lights,3001200E,Handbrake sign on
 Warning lights,30011101,Front fog light off
 Warning lights,30012001,Front fog light on
 Warning lights,30011112,Fuel low off
 Warning lights,30012012,Fuel low on
-Warning lights,30011111,Gas off
-Warning lights,30012011,Gas on
-Warning lights,30011105,High beam off
-Warning lights,30012005,High beam on
+Warning lights,30011111,LPG mode off
+Warning lights,30012011,LPG mode on
+Warning lights,30011105,Main beam off
+Warning lights,30012005,Main beam on
 Warning lights,30011109,Indicator left off
 Warning lights,30012009,Indicator left on
 Warning lights,3001110C,Indicator right off
 Warning lights,3001200C,Indicator right on
-Warning lights,30011106,Main beam off
-Warning lights,30012006,Main beam on
+Warning lights,30011106,Dipped beam off
+Warning lights,30012006,Dipped beam on
 Warning lights,30011110,Oil off
 Warning lights,30012010,Oil on
 Warning lights,30011102,Passenger Airbag Off Off
@@ -43,19 +43,19 @@ Warning lights,30012003,Stop on
 Warning lights,30011103,Stop uit
 Warning lights,3001110D,
 Warning lights,3001200D,
-Needles,3004207D,130km/h
+Needles,3004207D,130 km/h
 Needles,30052019,2500 rpm
 Needles,3006201E,Fuel 1/2 tank
-Needles,30072065,Temperature second mark
-Needles,300420DD,230km/h
+Needles,30072065,Coolant temperature second mark
+Needles,300420DD,230 km/h
 Needles,30052032,5000 rpm
 Needles,3006203C,Full tank
-Needles,3007208C,Temperature max
+Needles,3007208C,Coolant temperature max
 Needles,300411,0 km/h
 Needles,300511,0 rpm
 Needles,300611,
 Needles,300711,Temperature 0
-Lighting,30082080,Dashboard  illumination on
+Lighting,30082080,Dashboard illumination on
 Lighting,30092080,Dashboard illuminiation off
 Lighting,300820FF,Dashboard needles illumination on
 Lighting,300920FF,
