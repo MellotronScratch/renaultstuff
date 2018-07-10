@@ -1,111 +1,111 @@
 Category,Command,CodeMr,Description
-Warning lights,30011104,,ABS off
-Warning lights,30012004,,ABS on
-Warning lights,30011115,,Airbag off
-Warning lights,30012015,,Airbag on
-Warning lights,30011108,,ASR/ESP o
-Warning lights,30012008,,ASR/ESP on
-Warning lights,30011113,,Battery charge indicator on
-Warning lights,30012013,,Battery charge indicator on
-Warning lights,30011114,,Check engine off
-Warning lights,30012014,,Check engine on
-Warning lights,3001110A,,Cruise control off
-Warning lights,3001200A,,Cruise control on
-Warning lights,3001110E,,Handbrake sign off
-Warning lights,3001200E,,Handbrake sign on
-Warning lights,30011101,,Front fog light off
-Warning lights,30012001,,Front fog light on
-Warning lights,30011112,,Fuel low off
-Warning lights,30012012,,Fuel low on
-Warning lights,30011111,,LPG mode off
-Warning lights,30012011,,LPG mode on
-Warning lights,30011105,,Main beam off
-Warning lights,30012005,,Main beam on
-Warning lights,30011109,,Indicator left off
-Warning lights,30012009,,Indicator left on
-Warning lights,3001110C,,Indicator right off
-Warning lights,3001200C,,Indicator right on
-Warning lights,30011106,,Dipped beam off
-Warning lights,30012006,,Dipped beam on
-Warning lights,30011110,,Oil off
-Warning lights,30012010,,Oil on
-Warning lights,30011102,,Passenger Airbag Off Off
-Warning lights,30012002,,Passenger Airbag Off On
-Warning lights,30011107,,Rear fog light on
-Warning lights,30012007,,Rear fog light on
-Warning lights,3001110F,,Seat belt off
-Warning lights,3001200F,,Seat belt on
-Warning lights,30011100,,Service off
-Warning lights,30012000,,Service on
-Warning lights,3001110B,,Speed limiter off
-Warning lights,3001200B,,Speed limiter on
-Warning lights,30012003,,Stop on
-Warning lights,30011103,,Stop uit
-Warning lights,3001110D,,
-Warning lights,3001200D,,
-Needles,3004207D,,130 km/h
-Needles,30052019,,2500 rpm
-Needles,3006201E,,Fuel 1/2 tank
-Needles,30072065,,Coolant temperature second mark
-Needles,300420DD,,230 km/h
-Needles,30052032,,5000 rpm
-Needles,3006203C,,Full tank
-Needles,3007208C,,Coolant temperature max
-Needles,300411,,0 km/h
-Needles,300511,,0 rpm
-Needles,300611,,
-Needles,300711,,Temperature 0
-Lighting,30082080,,Dashboard illumination on
-Lighting,30092080,,Dashboard illuminiation off
-Lighting,300820FF,,Dashboard needles illumination on
-Lighting,300920FF,,
-Lighting,300811,,Dashboard needles illumination off
-Lighting,300911,,
-Display,300320,,Display full on
-Display,300311,,Display full off
-Symbol,3001200D,,
-Symbol,30022000,,
-Symbol,30022001,,
-Symbol,30022004,,
-Symbol,30022005,,
-Symbol,30022006,,
-Symbol,30022007,,
-Symbol,30022008,,
-Symbol,30022009,,
-Symbol,3002200C,,
-Symbol,3002200D,,
-Symbol,3002200E,,
-Symbol,3002200F,,
-Symbol,30022011,,
-Symbol,30022014,,
-Symbol,30022015,,
-Symbol,30022016,,
-Symbol,30022017,,
-Symbol,30022019,,
-Symbol,3002201C,,
-Symbol,3002201E,,
-Symbol,3002201F,,
-Symbol,30021100,,
-Symbol,30021101,,
-Symbol,30021104,,
-Symbol,30021105,,
-Symbol,30021106,,
-Symbol,30021107,,
-Symbol,30021108,,
-Symbol,30021109,,
-Symbol,3002110C,,
-Symbol,3002110D,,
-Symbol,3002110E,,
-Symbol,3002110F,,
-Symbol,30021111,,
-Symbol,30021114,,
-Symbol,30021115,,
-Symbol,30021116,,
-Symbol,30021117,,
-Symbol,30021119,,
-Symbol,3002111C,,
-Symbol,3002111F,,
-Symbol,3002111E,,
-Symbol,3001110D,,
-Buzzer,300A20,,Buzzer on
-Buzzer,300A11,,Buzzer off
+Warning lights,30011104,AC009,ABS off
+Warning lights,30012004,AC009,ABS on
+Warning lights,30011115,AC009,Airbag off
+Warning lights,30012015,AC009,Airbag on
+Warning lights,30011108,AC009,ASR/ESP o
+Warning lights,30012008,AC009,ASR/ESP on
+Warning lights,30011113,AC009,Battery charge indicator on
+Warning lights,30012013,AC009,Battery charge indicator on
+Warning lights,30011114,AC009,Check engine off
+Warning lights,30012014,AC009,Check engine on
+Warning lights,3001110A,AC009,Cruise control off
+Warning lights,3001200A,AC009,Cruise control on
+Warning lights,3001110E,AC009,Handbrake sign off
+Warning lights,3001200E,AC009,Handbrake sign on
+Warning lights,30011101,AC009,Front fog light off
+Warning lights,30012001,AC009,Front fog light on
+Warning lights,30011112,AC009,Fuel low off
+Warning lights,30012012,AC009,Fuel low on
+Warning lights,30011111,AC009,LPG mode off
+Warning lights,30012011,AC009,LPG mode on
+Warning lights,30011105,AC009,Main beam off
+Warning lights,30012005,AC009,Main beam on
+Warning lights,30011109,AC009,Indicator left off
+Warning lights,30012009,AC009,Indicator left on
+Warning lights,3001110C,AC009,Indicator right off
+Warning lights,3001200C,AC009,Indicator right on
+Warning lights,30011106,AC009,Dipped beam off
+Warning lights,30012006,AC009,Dipped beam on
+Warning lights,30011110,AC009,Oil off
+Warning lights,30012010,AC009,Oil on
+Warning lights,30011102,AC009,Passenger Airbag Off Off
+Warning lights,30012002,AC009,Passenger Airbag Off On
+Warning lights,30011107,AC009,Rear fog light on
+Warning lights,30012007,AC009,Rear fog light on
+Warning lights,3001110F,AC009,Seat belt off
+Warning lights,3001200F,AC009,Seat belt on
+Warning lights,30011100,AC009,Service off
+Warning lights,30012000,AC009,Service on
+Warning lights,3001110B,AC009,Speed limiter off
+Warning lights,3001200B,AC009,Speed limiter on
+Warning lights,30012003,AC009,Stop on
+Warning lights,30011103,AC009,Stop uit
+Warning lights,3001110D,AC009,
+Warning lights,3001200D,AC009,
+Needles,3004207D,AC008,130 km/h
+Needles,30052019,AC008,2500 rpm
+Needles,3006201E,AC008,Fuel 1/2 tank
+Needles,30072065,AC008,Coolant temperature second mark
+Needles,300420DD,AC008,230 km/h
+Needles,30052032,AC008,5000 rpm
+Needles,3006203C,AC008,Full tank
+Needles,3007208C,AC008,Coolant temperature max
+Needles,300411,AC008,0 km/h
+Needles,300511,AC008,0 rpm
+Needles,300611,AC008,
+Needles,300711,AC008,Temperature 0
+Lighting,30082080,AC010,Dashboard illumination on
+Lighting,30092080,AC010,Dashboard illuminiation off
+Lighting,300820FF,AC010,Dashboard needles illumination on
+Lighting,300920FF,AC010,
+Lighting,300811,AC010,Dashboard needles illumination off
+Lighting,300911,AC010,
+Display,300320,AC007,Display full on
+Display,300311,AC007,Display full off
+Symbol,3001200D,AC011,
+Symbol,30022000,AC011,
+Symbol,30022001,AC011,
+Symbol,30022004,AC011,
+Symbol,30022005,AC011,
+Symbol,30022006,AC011,
+Symbol,30022007,AC011,
+Symbol,30022008,AC011,
+Symbol,30022009,AC011,
+Symbol,3002200C,AC011,
+Symbol,3002200D,AC011,
+Symbol,3002200E,AC011,
+Symbol,3002200F,AC011,
+Symbol,30022011,AC011,
+Symbol,30022014,AC011,
+Symbol,30022015,AC011,
+Symbol,30022016,AC011,
+Symbol,30022017,AC011,
+Symbol,30022019,AC011,
+Symbol,3002201C,AC011,
+Symbol,3002201E,AC011,
+Symbol,3002201F,AC011,
+Symbol,30021100,AC011,
+Symbol,30021101,AC011,
+Symbol,30021104,AC011,
+Symbol,30021105,AC011,
+Symbol,30021106,AC011,
+Symbol,30021107,AC011,
+Symbol,30021108,AC011,
+Symbol,30021109,AC011,
+Symbol,3002110C,AC011,
+Symbol,3002110D,AC011,
+Symbol,3002110E,AC011,
+Symbol,3002110F,AC011,
+Symbol,30021111,AC011,
+Symbol,30021114,AC011,
+Symbol,30021115,AC011,
+Symbol,30021116,AC011,
+Symbol,30021117,AC011,
+Symbol,30021119,AC011,
+Symbol,3002111C,AC011,
+Symbol,3002111F,AC011,
+Symbol,3002111E,AC011,
+Symbol,3001110D,AC011,
+Buzzer,300A20,AC006,Buzzer on
+Buzzer,300A11,AC006,Buzzer off
