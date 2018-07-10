@@ -1,3 +1,5 @@
-Category,Command,Description
-Lighting,302F2064,Front right fog lights on
-Lighting,302F11,Front right fog lights off
+Category,Command,CodeMr,Description
+Lighting,302F2064,AC058,Front right fog lights on
+Lighting,302F11,AC058,Front right fog lights off
+Lighting,30142064,AC059,Front left fog lights on
+Lighting,301411,AC059,Front left fog lights off
