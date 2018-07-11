@@ -13,8 +13,8 @@ Pin,Code,Clio III Ph2,Megane III,Kangoo II,Trafic II,Twingo II,Koleos I,Descript
 12,NAM,*,*,*,*,*,*,Upper Left-Hand Cross Member Electronic Earth
 13,,,,,,,,
 14,96C,,,*,,,,+ Driver's Seat Belt Reminder Light
-15,107X,*,*,*,*,*,*,Diagnostic Socket Canl Multimedia Signal
-16,107W,*,*,*,*,*,*,Diagnostic Socket Canh Multimedia Signal
+15,107X,*,*,*,*,*,*,Diagnostic Socket Can L Multimedia Signal
+16,107W,*,*,*,*,*,*,Diagnostic Socket Can H Multimedia Signal
 17,133C,*,*,*,*,*,*,Instrument Panel Can L Signal > Computer
 18,133B,*,*,*,*,*,*,Instrument Panel Can H Signal > Computer
 19,60PC,*,*,*,,,,Passenger Airbag Off Warning Light Control
