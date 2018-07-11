@@ -6,20 +6,20 @@ Pin,Code,Clio III Ph2,Megane III,Kangoo II,Trafic II,Twingo II,Koleos I,Descript
 5,34AQ,*,*,*,*,*,*,Radio Satellite Signal L1
 6,34AR,*,*,*,*,*,*,Radio Satellite Signal L2
 7,34AO,*,*,*,,,*,Radio Satellite L3 (Line 3) Signal
-8,34AU,*,*,*,*,*,*,Radio Satellite In2 Signal
-9,34AT,*,*,*,*,*,*,Radio Satellite In1 Signal
-10,34AS,*,*,*,*,*,*,Radio Satellite In0 Signal
+8,34AU,*,*,*,*,*,*,Radio Satellite IN2 Signal
+9,34AT,*,*,*,*,*,*,Radio Satellite IN1 Signal
+10,34AS,*,*,*,*,*,*,Radio Satellite IN0 Signal
 11,34HU,*,*,*,*,*,*,Multimedia Wake-Up Signal
 12,NAM,*,*,*,*,*,*,Upper Left-Hand Cross Member Electronic Earth
 13,,,,,,,,
-14,96C,,,*,,,,+ Driver'S Seat Belt Reminder Light
+14,96C,,,*,,,,+ Driver's Seat Belt Reminder Light
 15,107X,*,*,*,*,*,*,Diagnostic Socket Canl Multimedia Signal
 16,107W,*,*,*,*,*,*,Diagnostic Socket Canh Multimedia Signal
 17,133C,*,*,*,*,*,*,Instrument Panel Can L Signal > Computer
 18,133B,*,*,*,*,*,*,Instrument Panel Can H Signal > Computer
 19,60PC,*,*,*,,,,Passenger Airbag Off Warning Light Control
 20,60PB,*,*,*,,,,Passenger Airbag Off Warning Light + Feed
-21,96L,*,*,*,,,,Driver'S Seatbelt Reminder Light Control
+21,96L,*,*,*,,,,Driver's Seatbelt Reminder Light Control
 22,60PD,,*,,,,,Passenger Airbag On Warning Light Control
 23,47C,,,,*,,,External Temperature Sensor + Signal
 24,47D,,,,*,,,External Temperature Sensor Zero Volts Signal
