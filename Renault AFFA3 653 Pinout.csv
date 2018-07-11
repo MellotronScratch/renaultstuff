@@ -1,25 +1,25 @@
 Pin,Code,Clio III Ph2,Megane III,Kangoo II,Trafic II,Twingo II,Koleos I,Descriptions
-1,34HY,*,*,*,*,*,*,MULTIMEDIA STOP/START CONTROL
-2,BPT3,*,*,*,*,*,*,+ BATTERY PROTECTED / TIMED RELAY
-3,BCP4,*,*,*,*,*,*,PROTECTED + BATTERY FEED CIRCUIT BREAKER MEMORY FUSE
-4,34AP,*,*,*,*,*,*,RADIO SATELLITE SIGNAL L0
-5,34AQ,*,*,*,*,*,*,RADIO SATELLITE SIGNAL L1
-6,34AR,*,*,*,*,*,*,RADIO SATELLITE SIGNAL L2
-7,34AO,*,*,*,,,*,RADIO SATELLITE L3 (LINE 3) SIGNAL
-8,34AU,*,*,*,*,*,*,RADIO SATELLITE IN2 SIGNAL
-9,34AT,*,*,*,*,*,*,RADIO SATELLITE IN1 SIGNAL
-10,34AS,*,*,*,*,*,*,RADIO SATELLITE IN0 SIGNAL
-11,34HU,*,*,*,*,*,*,MULTIMEDIA WAKE-UP SIGNAL
-12,NAM,*,*,*,*,*,*,UPPER LEFT-HAND CROSS MEMBER ELECTRONIC EARTH
+1,34HY,*,*,*,*,*,*,Multimedia Stop/Start Control
+2,BPT3,*,*,*,*,*,*,+ Battery Protected / Timed Relay
+3,BCP4,*,*,*,*,*,*,Protected + Battery Feed Circuit Breaker Memory Fuse
+4,34AP,*,*,*,*,*,*,Radio Satellite Signal L0
+5,34AQ,*,*,*,*,*,*,Radio Satellite Signal L1
+6,34AR,*,*,*,*,*,*,Radio Satellite Signal L2
+7,34AO,*,*,*,,,*,Radio Satellite L3 (Line 3) Signal
+8,34AU,*,*,*,*,*,*,Radio Satellite In2 Signal
+9,34AT,*,*,*,*,*,*,Radio Satellite In1 Signal
+10,34AS,*,*,*,*,*,*,Radio Satellite In0 Signal
+11,34HU,*,*,*,*,*,*,Multimedia Wake-Up Signal
+12,NAM,*,*,*,*,*,*,Upper Left-Hand Cross Member Electronic Earth
 13,,,,,,,,
-14,96C,,,*,,,,+ DRIVER'S SEAT BELT REMINDER LIGHT
-15,107X,*,*,*,*,*,*,DIAGNOSTIC SOCKET CANL MULTIMEDIA SIGNAL
-16,107W,*,*,*,*,*,*,DIAGNOSTIC SOCKET CANH MULTIMEDIA SIGNAL
-17,133C,*,*,*,*,*,*,INSTRUMENT PANEL CAN L SIGNAL > COMPUTER
-18,133B,*,*,*,*,*,*,INSTRUMENT PANEL CAN H SIGNAL > COMPUTER
-19,60PC,*,*,*,,,,PASSENGER AIRBAG OFF WARNING LIGHT CONTROL
-20,60PB,*,*,*,,,,PASSENGER AIRBAG OFF WARNING LIGHT + FEED
-21,96L,*,*,*,,,,DRIVER'S SEATBELT REMINDER LIGHT CONTROL
-22,60PD,,*,,,,,PASSENGER AIRBAG ON WARNING LIGHT CONTROL
-23,47C,,,,*,,,EXTERNAL TEMPERATURE SENSOR + SIGNAL
-24,47D,,,,*,,,EXTERNAL TEMPERATURE SENSOR ZERO VOLTS SIGNAL
+14,96C,,,*,,,,+ Driver'S Seat Belt Reminder Light
+15,107X,*,*,*,*,*,*,Diagnostic Socket Canl Multimedia Signal
+16,107W,*,*,*,*,*,*,Diagnostic Socket Canh Multimedia Signal
+17,133C,*,*,*,*,*,*,Instrument Panel Can L Signal > Computer
+18,133B,*,*,*,*,*,*,Instrument Panel Can H Signal > Computer
+19,60PC,*,*,*,,,,Passenger Airbag Off Warning Light Control
+20,60PB,*,*,*,,,,Passenger Airbag Off Warning Light + Feed
+21,96L,*,*,*,,,,Driver'S Seatbelt Reminder Light Control
+22,60PD,,*,,,,,Passenger Airbag On Warning Light Control
+23,47C,,,,*,,,External Temperature Sensor + Signal
+24,47D,,,,*,,,External Temperature Sensor Zero Volts Signal
