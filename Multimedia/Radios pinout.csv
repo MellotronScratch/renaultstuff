@@ -1,0 +1,20 @@
+Connector,Pin,Code,Description
+A,1,34A,Left Hand Rear Loudspeaker + Signal
+A,2,34G,Left Hand Front Loudspeaker + Signal
+A,3,34E,Right Hand Front Loudspeaker + Signal
+A,5,BP1H,
+A,6,34B,Left Hand Rear Loudspeaker - Signal
+A,7,34H,Left Hand Front Loudspeaker - Signal
+A,8,34F,Right Hand Front Loudspeaker - Signal
+A,9,34D,Right Hand Rear Loudspeaker + Signal
+A,10,34C,Right Hand Rear Loudspeaker - Signal
+A,12,MT,Radio Electrical Earth
+B,1,34HY,Multimedia Stop/Start Control
+B,2,34HU,Multimedia Wake-Up Signal
+B,7,107F,Multimedia Microphone Signal
+B,8,107G,Hands Free Telephone Microphone +
+B,19,107W,Diagnostic Socket Can H Multimedia Signal
+B,20,107X,Diagnostic Socket Can L Multimedia Signal
+B,23,107J,Telephone Microphone Screening
+C,1,TB39,Am/Fm1 Radio Shielding Braid
+C,2,34EP,Am/Fm1 Radio Signal
