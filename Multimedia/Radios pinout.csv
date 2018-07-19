@@ -13,8 +13,20 @@ B,1,34HY,Multimedia Stop/Start Control
 B,2,34HU,Multimedia Wake-Up Signal
 B,7,107F,Multimedia Microphone Signal
 B,8,107G,Hands Free Telephone Microphone +
+B,9,34ET,- Line In
+B,10,34EE,Left Hand Line In + Signal
+B,13,34EM,
+B,14,34HD,- Navigation Voice
+B,15,34HG,+ Navigation Voice
+B,16,TB85,
 B,19,107W,Diagnostic Socket Can H Multimedia Signal
 B,20,107X,Diagnostic Socket Can L Multimedia Signal
 B,23,107J,Telephone Microphone Screening
+B,25,TB37,Line In Shielded Cable
+B,26,34EC,Right Hand Line In + Signal
+B,29,TB27,Navigation Voice Shielded Cable
+B,30,34RA,
+B,31,34RC,
+B,32,34RD,
 C,1,TB39,Am/Fm1 Radio Shielding Braid
 C,2,34EP,Am/Fm1 Radio Signal
