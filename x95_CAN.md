@@ -64,7 +64,6 @@
     <td>60</td>
     <td>61</td>
     <td>62</td>
-    <td>63</td>
   </tr>
   <tr>
     <td>ECU</td>
@@ -79,10 +78,26 @@
     <td colspan="8" align="center">B7</td>
   </tr>
   <tr>
+    <td>AIRBAG_CANHS_R_01</td>
+    <td>0x0653</td>
+    <td colspan="2">CrashDetected</td>
+    <td colspan="2">CrashDetectedOutOfOrder</td>
+    <td colspan="2">____fixedtozero____</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td colspan="2">DriverSafetyBeltReminder</td>
+    <td colspan="2">FrontPassengerSafetyBeltReminder</td>
+    <td>PassengerAIRBAG_Inhibition</td>
+    <td>AIRBAGMalfunction</td>
+    <td colspan="2">SecondRowCenterSafetyBeltState</td>
+    <td colspan="2">SecondRowLeftSafetyBeltState</td>
+    <td colspan="2">SecondRowRightSafetyBeltState</td>
+    <td>ValidAIRBAGInformation</td>
+    <td>EDRActiveDisplayRequest</td>
+    <td colspan="2">ThirdRowLeftSafetyBeltState</td>
+    <td colspan="2">ThirdRowRightSafetyBeltState</td>
+    <td colspan="2">PassAirbagONDisplayReq</td>
+    <td>Position</td>
+    <td colspan="35"></td>
   </tr>
 </table>
